@@ -1,5 +1,5 @@
 {
-    "dataFolder":"/mnt/share/Data-Competition/",
+    "dataFolder":"Data/",
     "1Layer":{
         "epochs":5000,
         "weights":[1.0, 1.0, 1.0, 1.0]
